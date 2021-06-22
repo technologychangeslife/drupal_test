@@ -1,0 +1,4 @@
+name = Drupal Test
+description = Drupal Test Module
+package = custom
+core = 7.x
