@@ -1,0 +1,4 @@
+name: drupal_test
+recipe: drupal7
+config:
+  webroot: .
