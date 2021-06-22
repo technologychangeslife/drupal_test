@@ -5,6 +5,8 @@
  * Drupal Test Module File.
  */
 
+include_once 'drupal_test.features.inc';
+
 /**
  * Implements hook_form_alter().
  */
